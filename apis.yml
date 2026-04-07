@@ -1,7 +1,5 @@
 name: Docubase
-description: AI-powered document management and knowledge base platform that 
-  helps teams organize, search, and collaborate on documents using natural 
-  language processing.
+description: AI-powered document management and knowledge base platform that helps teams organize, search, and collaborate on documents using natural language processing.
 image: https://www.docubase.io/images/logo.png
 url: https://www.docubase.io
 created: '2024'
@@ -16,8 +14,8 @@ apis:
     tags:
       - Documents
       - File Management
-      - Upload
       - Storage
+      - Upload
     properties:
       - type: Documentation
         url: https://docs.docubase.io/api/documents
@@ -37,9 +35,9 @@ apis:
     baseURL: https://api.docubase.io/v1
     humanURL: https://www.docubase.io/apis/search
     tags:
-      - Search
       - AI
       - Natural Language Processing
+      - Search
       - Semantic Search
     properties:
       - type: Documentation
@@ -55,10 +53,10 @@ apis:
     baseURL: https://api.docubase.io/v1
     humanURL: https://www.docubase.io/apis/collections
     tags:
-      - Collections
-      - Organization
-      - Folders
       - Categories
+      - Collections
+      - Folders
+      - Organization
     properties:
       - type: Documentation
         url: https://docs.docubase.io/api/collections
@@ -73,9 +71,9 @@ apis:
     humanURL: https://www.docubase.io/apis/analytics
     tags:
       - Analytics
+      - Insights
       - Metrics
       - Reporting
-      - Insights
     properties:
       - type: Documentation
         url: https://docs.docubase.io/api/analytics
@@ -107,9 +105,9 @@ maintainers:
     email: apis@docubase.io
     url: https://www.docubase.io/about
 tags:
+  - AI
+  - Collaboration
+  - Document Management
   - Documents
   - Knowledge Base
-  - AI
   - Search
-  - Document Management
-  - Collaboration
