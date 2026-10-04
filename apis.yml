@@ -30,13 +30,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/docubase.png
 tags:
-  - Document-Management
+  - Document Management
   - Knowledge Base
   - Artificial Intelligence
 tags_raw:
   - Document Management
   - Knowledge Base
   - AI
+  - Document-Management
 url: >-
   https://raw.githubusercontent.com/api-evangelist/docubase/refs/heads/main/apis.yml
 created: '2024-01-01'
